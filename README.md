@@ -5,3 +5,5 @@
 ![image](https://user-images.githubusercontent.com/55648193/184643166-4f366b58-ab6b-43ef-8a02-9d654feef43a.png)  
 # FragmentB Button Click  
 ![image](https://user-images.githubusercontent.com/55648193/184643233-9b7fe081-9b9e-483c-8d9a-1cab4df417f7.png)  
+
+실행 결과는 https://jjunsu.tistory.com/277에서 확인하면 된다.
