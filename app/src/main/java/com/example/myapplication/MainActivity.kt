@@ -30,8 +30,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         dialogButton.setOnClickListener {
-            val builder = AlertDialog.Builder(this)
-            builder.apply {
+            val alertDialog = AlertDialog.Builder(this)
+            alertDialog.apply {
                 setTitle(R.string.dialog).setMessage(R.string.select_option)
                     .setPositiveButton(R.string.initialization) { _, _ ->
                         count = 0
