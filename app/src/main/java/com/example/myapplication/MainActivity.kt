@@ -21,8 +21,6 @@ class MainActivity : AppCompatActivity() {
 
         setContentView(R.layout.activity_main)
 
-
-
         numberTextView = findViewById(R.id.number_text)
         val countButton: Button = findViewById(R.id.count_button)
         val dialogButton: Button = findViewById(R.id.dialog_button)
@@ -48,9 +46,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
-        outState.putInt("count", count)
-
         super.onSaveInstanceState(outState)
+        outState.putInt("count", count)
     }
 
     override fun onRestoreInstanceState(savedInstanceState: Bundle) {
