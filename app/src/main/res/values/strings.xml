@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="zero">0</string>
+    <string name="dialog">dialog</string>
+    <string name="count">count</string>
+    <string name="select_option">옵션을 고르세요</string>
+    <string name="initialization">initialization</string>
+    <string name="toast">Toast</string>
+    <string name="notice">다이얼로그 토스트 메세지입니다.</string>
+    <string name="none">none</string>
 </resources>
