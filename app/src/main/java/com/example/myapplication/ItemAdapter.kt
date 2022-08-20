@@ -59,7 +59,6 @@ class ItemAdapter: RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
             val name = dataList[i].name
             dataList[i] = ItemData(num-1, name)
         }
-        notifyDataSetChanged()
     }
 
     interface OnItemClickListener {
