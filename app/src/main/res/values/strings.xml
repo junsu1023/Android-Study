@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="zero">0</string>
+    <string name="count">count</string>
+    <string name="random">random</string>
+    <string name="channel_name">channel_name</string>
+    <string name="description">알림창</string>
+    <string name="notification_name">알림</string>
+    <string name="notification_text">알림 내용</string>
 </resources>
